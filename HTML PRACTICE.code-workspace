@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Sidehustle"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML PRACTICE"
+  }
+}
